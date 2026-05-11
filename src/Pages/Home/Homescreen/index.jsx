@@ -1,3 +1,4 @@
+import AboutMe from "../AboutMe";
 import HeroSection from "../HeroSection";
 import Navbar from "../Navbar";
 export default function Home (){
@@ -5,6 +6,7 @@ export default function Home (){
         <div className="home">
             <Navbar />
            <HeroSection />
+           <AboutMe />
         </div>
     );
 }
