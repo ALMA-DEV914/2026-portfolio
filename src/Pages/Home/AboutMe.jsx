@@ -10,16 +10,9 @@ export default function AboutMe() {
           <p className="section--title">About</p>
           <h1 className="skills-section--heading">About Me</h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae? Voluptatem, reprehenderit alias? Eligendi aperiam
-            tempora numquam sint odit optio.
+            I’m a Web Developer who enjoys bringing ideas to life through clean and functional web design. I’m passionate about creating seamless user experiences and continuously improving my craft through new challenges and technologies. Beyond the screen, I find balance and inspiration in hiking mountain trails and rock climbing—activities that push my limits, strengthen my focus, and remind me to keep exploring and growing.
           </p>
-          <p className="hero--section-description">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem
-            officiis sit debitis omnis harum sed veniam quasi dicta accusamus
-            recusandae?
-          </p>
+          
         </div>
       </div>
     </section>
