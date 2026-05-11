@@ -2,26 +2,24 @@ import React from "react";
 import heroImage from "../../assets/hero-mage.png";
 export default function HeroSection() {
   return (
-    <section className="hero-section">
-      <div className="hero-content">
-        <h1>Welcome to My Portfolio</h1>
-        <h2>Hi, I'm Alma, Frontend Developer/Full Stack Developer</h2>
-        <span className="highlight">
-          Creative Problem Solver. Building modern and responsive web
-          experiences.
-        </span>
-        <div className="button-container">
-          <button className="btn">Get in Touch</button>
+    <section id="heroSection" className="hero--section">
+      <div className="hero--section--content--box">
+        <div className="hero--section--content">
+          <p className="section--title">Hey, I'm John</p>
+          <h1 className="hero--section--title">
+            <span className="hero--section-title--color">Full Stack</span>{" "}
+            <br />
+            Developer
+          </h1>
+          <p className="hero--section-description">
+            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+            <br /> Dolorum, quas. Amet soluta assumenda cum?
+          </p>
         </div>
+        <button className="btn btn-primary">Get In Touch</button>
       </div>
-      <div className="hero-image">
-        <img
-          src={heroImage}
-          alt="Hero"
-          className="hero-img"
-          width="400"
-          height="500"
-        />
+      <div className="hero--section--img">
+        <img src={heroImage} alt="Hero Section" />
       </div>
     </section>
   );
