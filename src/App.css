@@ -275,7 +275,8 @@ h2 {
 .skills--section--card:hover .skills--section--description {
   color: var(--darkblue);
 }
-.skills--section--img {
+.skills-img{
+  width: 100%;
   display: flex;
   padding: 13.3px;
   justify-content: center;
