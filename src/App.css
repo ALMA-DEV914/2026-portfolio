@@ -127,6 +127,14 @@ h2 {
   font-weight: 400;
   line-height: 21px;
 }
+.navbar--logo {
+  width: 150px;
+  height: 100px;
+}
+.footer--logo {
+  width: 150px;
+  height: 100px;
+}
 
 /* Section Titles */
 /* Skills & About Me */

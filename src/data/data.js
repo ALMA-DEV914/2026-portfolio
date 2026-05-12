@@ -1,7 +1,7 @@
 import img1 from "../assets/portfolio1.png";
-import img2 from "../assets/portfolio2.png";
+import img2 from "../assets/Full-Stack.png";
 import img3 from "../assets/porfolio3.png";
-import img4 from "../assets/slide2.jpg";
+import img4 from "../assets/joanblog.png";
 
 import portfolio1 from "../assets/slide2.jpg";
 import portfolio2 from "../assets/z5 2.jpg";

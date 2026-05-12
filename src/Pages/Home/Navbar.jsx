@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
+import logo from "../../assets/mainlogo.png";
 
 function Navbar() {
   const [navActive, setNavActive] = useState(false);
@@ -28,14 +29,14 @@ function Navbar() {
 
   useEffect(() => {
     if (window.innerWidth <= 1200) {
-       return closeMenu;
+      return closeMenu;
     }
   }, []);
 
   return (
     <nav className={`navbar ${navActive ? "active" : ""}`}>
       <div>
-        <img src="./img/logo.svg" alt="Alma Braun" />
+        <img src={logo} alt="Alma Braun" className="navbar--logo" />
       </div>
       <a
         className={`nav__hamburger ${navActive ? "active" : ""}`}
