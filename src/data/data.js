@@ -18,28 +18,28 @@ const data = {
       src: img1,
       title: "Front-End",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "Frontend Web Developer with experience building responsive and user-friendly web applications using React, JavaScript, HTML, CSS, and modern UI frameworks. Skilled in creating interactive interfaces, integrating APIs, and developing clean, mobile-friendly designs with a focus on performance and user experience. Passionate about turning ideas into functional and visually appealing websites."
     },
     {
       id: "2",
       src: img2,
       title: "Back-End",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "Backend Developer with experience building scalable server-side applications and RESTful APIs using Node.js, Express.js, and MongoDB. Skilled in database management, authentication, API integration, and developing secure, efficient backend systems for full-stack web applications. Experienced in handling data operations, payment integrations, and deploying applications with clean and maintainable code practices."
     },
     {
       id: "3",
       src: img3,
       title: "UI & UX Design",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "UI/UX Designer with experience creating intuitive, visually appealing, and user-centered digital experiences. Skilled in designing responsive layouts, improving user flows, wireframing, prototyping, and developing modern interfaces that enhance usability and engagement. Focused on combining creativity and functionality to deliver seamless user experiences across web and mobile platforms."
     },
     {
       id: "4",
       src: img4,
       title: "Webflow Development",
       description:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+        "Webflow Developer with experience building responsive, modern, and visually engaging websites using Webflow. Skilled in creating custom layouts, animations, CMS integration, and optimizing websites for performance and user experience. Experienced in transforming design concepts into fully functional, mobile-friendly websites with clean structure and smooth interactions."
     }
   ],
 
