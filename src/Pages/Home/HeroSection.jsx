@@ -1,5 +1,5 @@
 import React from "react";
-import heroImage from "../../assets/hero-mage.png";
+import heroImage from "../../assets/me.png";
 export default function HeroSection() {
   return (
     <section id="heroSection" className="hero--section">
